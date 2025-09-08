@@ -57,6 +57,9 @@ function GoToPage(){
   )
 }
 
+// We can use any of the method above
+// NOTE: both of the methods can only be called inside BrowserRouter 
+
 function App() {
   return (
     <BrowserRouter>
